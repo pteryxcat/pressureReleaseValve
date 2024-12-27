@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="25.0.3">
   <diagram name="Page-1" id="GeYVH_NYKNIjnTx37Asv">
-    <mxGraphModel>
+    <mxGraphModel dx="1063" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eGBgpDXBILm3z7dDLEID-1" value="Utility" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="eGBgpDXBILm3z7dDLEID-10" value="suggestions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eGBgpDXBILm3z7dDLEID-1">
+          <mxGeometry x="10" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eGBgpDXBILm3z7dDLEID-4" value="rules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eGBgpDXBILm3z7dDLEID-1">
+          <mxGeometry x="10" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eGBgpDXBILm3z7dDLEID-5" value="automation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eGBgpDXBILm3z7dDLEID-1">
+          <mxGeometry x="10" y="70" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eGBgpDXBILm3z7dDLEID-7" value="&lt;div&gt;patch-notes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eGBgpDXBILm3z7dDLEID-1">
+          <mxGeometry x="10" y="100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eGBgpDXBILm3z7dDLEID-8" value="democracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eGBgpDXBILm3z7dDLEID-1">
+          <mxGeometry x="10" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eGBgpDXBILm3z7dDLEID-11" value="Casual" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="eGBgpDXBILm3z7dDLEID-12" value="suggestions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eGBgpDXBILm3z7dDLEID-11">
+          <mxGeometry x="10" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eGBgpDXBILm3z7dDLEID-13" value="rules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eGBgpDXBILm3z7dDLEID-11">
+          <mxGeometry x="10" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eGBgpDXBILm3z7dDLEID-14" value="automation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eGBgpDXBILm3z7dDLEID-11">
+          <mxGeometry x="10" y="70" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eGBgpDXBILm3z7dDLEID-15" value="&lt;div&gt;patch-notes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eGBgpDXBILm3z7dDLEID-11">
+          <mxGeometry x="10" y="100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eGBgpDXBILm3z7dDLEID-16" value="democracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eGBgpDXBILm3z7dDLEID-11">
+          <mxGeometry x="10" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
